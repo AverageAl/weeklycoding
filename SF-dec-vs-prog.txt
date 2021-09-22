@@ -1,0 +1,7 @@
+Differences between declarative and programmatic customizations
+
+Declarative customizations include tools that are provided within a Salesforce org.
+This includes examples like the object creator in setup, automation tools like process builder and flows, and reports.
+Programmatic customizations include customizations made using Apex code.
+One of the most important differences between declarative and programmatic customizations is that declarative customizations are guaranteed to be maintained and updated when Salesforce updates.
+This means that it is the developers responsibility to maintain functionality of programmatic customizations between Salesforce updates.
